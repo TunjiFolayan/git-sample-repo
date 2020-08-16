@@ -1,6 +1,6 @@
 
-git status - prints the status of the file revised 
-git init
+git status - This prints the status of the GIT repository actually  
+git init - initializes the Git repository - revised 
 git config--global user.name "Lets do This TJ"
 git config--global email tunjifolayan@gmail.com
 git config user.name "Lets do This TJ"
