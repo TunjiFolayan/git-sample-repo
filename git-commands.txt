@@ -1,8 +1,8 @@
 
-git status 
+git status - prints the status of the file 
 git init
 git config--global user.name "Lets do This TJ"
-git config--global email tunjifolayan@gmail
+git config--global email tunjifolayan@gmail.com
 git config user.name "Lets do This TJ"
 git config user.email tunjifolayan@gmail.com
 git add
